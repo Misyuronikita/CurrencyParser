@@ -1,0 +1,8 @@
+C:\Users\Nikita\Desktop\Проекты C#\CurrencyParser\CurrencyParser\bin\Debug\CurrencyParser.exe.config
+C:\Users\Nikita\Desktop\Проекты C#\CurrencyParser\CurrencyParser\bin\Debug\CurrencyParser.exe
+C:\Users\Nikita\Desktop\Проекты C#\CurrencyParser\CurrencyParser\bin\Debug\CurrencyParser.pdb
+C:\Users\Nikita\Desktop\Проекты C#\CurrencyParser\CurrencyParser\obj\Debug\CurrencyParser.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\Проекты C#\CurrencyParser\CurrencyParser\obj\Debug\CurrencyParser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikita\Desktop\Проекты C#\CurrencyParser\CurrencyParser\obj\Debug\CurrencyParser.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Проекты C#\CurrencyParser\CurrencyParser\obj\Debug\CurrencyParser.exe
+C:\Users\Nikita\Desktop\Проекты C#\CurrencyParser\CurrencyParser\obj\Debug\CurrencyParser.pdb
